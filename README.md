@@ -1,6 +1,5 @@
 # PaintNix
+Para jogar esse jogo você deve instalar o "Love-2D"
 
-TO RUN THIS GAME YOU NEED TO INSTALL "LOVE2D"
-
-PRESS P TO PAUSE
-PRESS R TO RESET
+P para Pausar
+R para Reiniciar
